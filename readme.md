@@ -1,6 +1,6 @@
 # Live2D_API
 
-> Github/nova1751/live2d-api 克隆的`live2d API`，用于网页端引入看板娘。
+> 从Github/nova1751/live2d-api 克隆的`live2d API`，用于网页端引入看板娘。
 
 ## 前言 To start with
 
