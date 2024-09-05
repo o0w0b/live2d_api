@@ -4,7 +4,7 @@
 // "https://jsd.cdn.zzko.cn/gh/nova1751/live2d-api@latest/"
 
 // const live2d_path = "https://unpkg.com/live2dapi-noa@latest/";
-const live2d_path = "/";
+const live2d_path = "https://live2d.o0w0b.top/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
